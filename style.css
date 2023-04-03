@@ -63,7 +63,7 @@ body{
 .header1{
     height: 100px;
     font-family: cursive;
-    font-size: 30px;
+    font-size: 35px;
     color: rgb(220, 20, 167);
     background-color: rgb(115, 221, 231);
     text-align: center;
@@ -82,7 +82,7 @@ body{
     height: 100%;
     background-color: rgb(220, 244, 172);
     font-size: 25px;
-    padding: 10px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -93,3 +93,18 @@ body{
     border: 2px solid;
 }
 
+
+/* style for details page */
+
+.main_details{
+    height: 100%;
+    background-color: rgb(220, 244, 172);
+    font-size: 25px;
+    padding: 20px;
+}
+
+.note{
+    font-size: 20px;
+    text-align: justify;
+    margin:40px;
+}
